@@ -1,2 +1,2 @@
 # SlideShow-Test
-Enter your description here
+Edit the file content through this editor window 
